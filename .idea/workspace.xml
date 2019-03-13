@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e8e35d8-1621-4b38-b561-a3e4fd8079eb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/APPS.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Constants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/GeneralPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/GiftPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Mobile12.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/RegistrationPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Report.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SenderReceiverPage.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BuyMe.iml" afterPath="$PROJECT_DIR$/BuyMe.iml" />
-      <change beforePath="$PROJECT_DIR$/src/APPS.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Constants.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/GeneralPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/GiftPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/HomePage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Mobile12.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/RegistrationPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Report.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SenderReceiverPage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeneralPage.java" afterPath="$PROJECT_DIR$/src/main/java/GeneralPage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/GeneralPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+              <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -488,6 +467,14 @@
       <option name="presentableId" value="Default" />
       <updated>1520199508603</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1552475961805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552475961805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -565,6 +552,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1012,7 +1003,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/GeneralPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+          <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
