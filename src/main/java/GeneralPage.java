@@ -122,7 +122,7 @@ public class GeneralPage {
     }
 
     @Test  //openURL
-    public void afirstMethod () throws org.xml.sax.SAXException, ParserConfigurationException, SAXException, IOException {
+    public void abfirstMethod () throws org.xml.sax.SAXException, ParserConfigurationException, SAXException, IOException {
         boolean pageOpened = false;
         try {
           GeneralPage.beforeMyClass().navigate().to(GeneralPage.getData1("URL"));
